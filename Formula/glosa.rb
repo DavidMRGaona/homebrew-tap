@@ -1,8 +1,8 @@
 class Glosa < Formula
   desc "Docopt-style argument parser in pure Bash"
   homepage "https://github.com/DavidMRGaona/glosa"
-  url "https://github.com/DavidMRGaona/glosa/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "33cf5fdc76d5e6200c7fceada3eb3753b5b9b3ab0ac52ef30b97cc52a9895384"
+  url "https://github.com/DavidMRGaona/glosa/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "3edcacd257fcf34524297d1dbdad9f61e3dd44c74824a720fb0f3e56ce52c994"
   license "GPL-3.0-or-later"
 
   def install
